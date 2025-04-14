@@ -1,6 +1,6 @@
 /* Table Header Styling - Increased Specificity */
 #csvTable.dataTable thead tr th {
-  background-color: #101535 !important;
+  background-color: #000000 !important;
   color: #ffffff !important;
   font-weight: bold;
   text-shadow: none;
